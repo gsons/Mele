@@ -1,4 +1,4 @@
-Mele
+﻿Mele
 ==========================
 Mele是仿照外卖o2o平台饿了么设计开发的一个Web App
 
@@ -8,7 +8,7 @@ Mele基于`Html/CSS+ajax+servlet+JDBC`实现,数据库使用Mysql
 
 UML图如下
 
-<image src="https://github.com/HiKumho/Mele/blob/master/uml.png?raw=true" width="90%"/>
+<image src="https://github.com/gsons/mele/blob/master/uml.png?raw=true" width="90%"/>
 
 功能说明
 -------------------------
@@ -23,8 +23,9 @@ UML图如下
 预览
 -------------------------
 
-<image src="https://github.com/HiKumho/Mele/blob/master/pre-index.png?raw=true" width="47%"/>
-![](https://github.com/HiKumho/Mele/blob/master/pre-user.png?raw=true)
+<image src="https://github.com/gsons/mele/blob/master/pre-index.png?raw=true" width="47%"/>
+![](https://github.com/gsons/mele/blob/master/pre-user.png?raw=true)
+
 
 
 
