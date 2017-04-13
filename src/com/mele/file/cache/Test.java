@@ -19,4 +19,9 @@ public class Test {
 			throw new NullPointerException();
 
 	}
+	/*public void Exception(int i) {
+		if (i > 0)
+			throw new NullPointerException();
+
+	}*/
 }
